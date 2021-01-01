@@ -42,3 +42,5 @@ serve -s build
 Run `yarn test` to run the test suite which uses Jest with either Enzyme or React-Testing-Library (depending on what I felt was better for the specific use case).
 
 Test coverage is 100%, and can be checked via `yarn coverage`.
+
+View the coverage report with `serve -s coverage/lcov-report`
