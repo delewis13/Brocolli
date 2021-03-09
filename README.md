@@ -28,7 +28,7 @@ NOTE: `yarn lint` will autofix what it can, including import order, semi-colons,
 
 After installing dependencies via `yarn install`, build the project using webpack via `yarn build`
 
-The build artificats will be in the `build` folder, which can be distributed seperate from the rest of this code base.
+The build artifacts will be in the `build` folder, which can be distributed seperate from the rest of this code base.
 
 After building, you can serve it with a static server via:
 
